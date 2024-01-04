@@ -6,7 +6,10 @@
 Инновационные Решения: Мы стремимся к инновациям, используя последние технологии и методы разработки.
 Сообщество и Поддержка: Активное сообщество разработчиков готово помочь вам в любых вопросах.
 Обучение и Разработка: Ресурсы и мероприятия для обучения и совершенствования ваших навыков.
-
+<br>
+<br>
+<br>
+<br>
 # Mizu - Developers
 About the Project
 Welcome to Mizu - a community of Discord developers where we bring together talent and passion for creating unique bots, integrations, and applications for Discord. Our aim is to make Discord interactions more interactive, convenient, and fun.
