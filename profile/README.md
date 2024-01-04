@@ -1,4 +1,4 @@
-# Мизу - Разработчики
+# 🇷🇺 Мизу - Разработчики
 ### О проекте
 Добро пожаловать в Мизу - сообщество разработчиков Discord, где мы объединяем талант и страсть к созданию уникальных ботов, интеграций и приложений для Discord. Наша цель - сделать взаимодействие в Discord более интерактивным, удобным и веселым.
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <br>
-# Mizu - Developers
+# 🇺🇸 Mizu - Developers
 About the Project
 Welcome to Mizu - a community of Discord developers where we bring together talent and passion for creating unique bots, integrations, and applications for Discord. Our aim is to make Discord interactions more interactive, convenient, and fun.
 
